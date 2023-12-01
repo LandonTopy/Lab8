@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a81ec05-bc99-48fd-b53b-514cc88ad9d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BirthDateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CtoFTableDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FavNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GetUsername.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InputHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RegExMagic.java" afterDir="false" />
-    </list>
+    <list default="true" id="4a81ec05-bc99-48fd-b53b-514cc88ad9d1" name="Changes" comment="Go" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,14 +34,7 @@
     "ToolWindowRun.ShowToolbar": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CtoFTableDisplay">
-    <configuration name="BirthDateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BirthDateTime" />
-      <module name="Lab8" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PrettyHeader">
     <configuration name="CheckOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CheckOut" />
       <module name="Lab8" />
@@ -78,6 +56,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrettyHeader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrettyHeader" />
+      <module name="Lab8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RegExMagic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RegExMagic" />
       <module name="Lab8" />
@@ -87,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrettyHeader" />
         <item itemvalue="Application.CtoFTableDisplay" />
         <item itemvalue="Application.CheckOut" />
         <item itemvalue="Application.InputHelper" />
         <item itemvalue="Application.RegExMagic" />
-        <item itemvalue="Application.BirthDateTime" />
       </list>
     </recent_temporary>
   </component>
@@ -104,6 +89,14 @@
       <option name="presentableId" value="Default" />
       <updated>1701180676850</updated>
     </task>
+    <task id="LOCAL-00001" summary="Go">
+      <created>1701440660627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701440660627</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,5 +109,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Go" />
+    <option name="LAST_COMMIT_MESSAGE" value="Go" />
   </component>
 </project>
