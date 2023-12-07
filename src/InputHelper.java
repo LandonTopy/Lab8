@@ -3,7 +3,7 @@ public class InputHelper {
     public static void main(String[] args) {
         //TestMethods
         Scanner scan = new Scanner(System.in);
-        prettyHeader("HHH");
+        prettyHeader("Hi");
         System.out.println(getYNConfirm(scan, "Yes or No [Y/N]"));
         System.out.println(getRegExString(scan, "Enter your Birthday", "\\d{2}/\\d{2}/\\d{4}"));
         System.out.println(getDouble(scan, "Please enter a double value"));
